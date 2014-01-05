@@ -12,5 +12,4 @@ public class PO2 {
     public static void main(String[] args) {
         
     }
-    
 }
