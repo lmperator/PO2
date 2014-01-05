@@ -2,7 +2,7 @@ package po2;
 
 /**
  *
- * @author Artur Laskowski
+ * @author Artur Laskowski jakaś zmiana
  */
 public class PO2 {
 
